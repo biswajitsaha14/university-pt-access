@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/university-pt-access/static/css/main.24ce7d75.chunk.css",
-    "main.js": "/university-pt-access/static/js/main.be62b5fd.chunk.js",
-    "main.js.map": "/university-pt-access/static/js/main.be62b5fd.chunk.js.map",
+    "main.css": "/university-pt-access/static/css/main.30b34d3e.chunk.css",
+    "main.js": "/university-pt-access/static/js/main.7c504dd7.chunk.js",
+    "main.js.map": "/university-pt-access/static/js/main.7c504dd7.chunk.js.map",
     "runtime-main.js": "/university-pt-access/static/js/runtime-main.ba03d290.js",
     "runtime-main.js.map": "/university-pt-access/static/js/runtime-main.ba03d290.js.map",
     "static/js/2.bffa3eca.chunk.js": "/university-pt-access/static/js/2.bffa3eca.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.6b945ef4.chunk.js": "/university-pt-access/static/js/3.6b945ef4.chunk.js",
     "static/js/3.6b945ef4.chunk.js.map": "/university-pt-access/static/js/3.6b945ef4.chunk.js.map",
     "index.html": "/university-pt-access/index.html",
-    "static/css/main.24ce7d75.chunk.css.map": "/university-pt-access/static/css/main.24ce7d75.chunk.css.map",
+    "static/css/main.30b34d3e.chunk.css.map": "/university-pt-access/static/css/main.30b34d3e.chunk.css.map",
     "static/js/2.bffa3eca.chunk.js.LICENSE.txt": "/university-pt-access/static/js/2.bffa3eca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ba03d290.js",
     "static/js/2.bffa3eca.chunk.js",
-    "static/css/main.24ce7d75.chunk.css",
-    "static/js/main.be62b5fd.chunk.js"
+    "static/css/main.30b34d3e.chunk.css",
+    "static/js/main.7c504dd7.chunk.js"
   ]
 }
